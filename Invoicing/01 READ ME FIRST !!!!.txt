@@ -1,0 +1,21 @@
+INVOICING SYSTEM IN PHP
+
+**Admin Login**
+USERNAME: admin@demo.com   
+PASSWORD: admin
+
+**Staff Login**
+Username: john@demo.com
+Password: john
+
+DON'T FORGET TO CREATE A DATABASE NAMING "invoicing" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+
+THANK YOU FOR DOWNLOADING :) 
